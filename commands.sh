@@ -13,3 +13,6 @@ terraform apply
 
 # destroy resource
 terraform destroy
+
+# validate terraform file
+terraform validate
