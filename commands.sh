@@ -16,3 +16,6 @@ terraform destroy
 
 # validate terraform file
 terraform validate
+
+# apply terraform changes with auto approve
+terraform apply --auto-approve
